@@ -1,15 +1,15 @@
 # IoT RC CAR  - WI-Fi
 
-### Componants
+## Componants
 #### L298 Motor Driver x 2
 #### Gear motor        x 4
 #### ESP32 DevKit      x 1
 #### 9 volt cell       x 2
 
 
-### Connections
+## Connections
 
-#### L298 - 1 connection
+### L298 - 1 connection
 ##### Motor 1  - connect front right motor
 ##### Motor 2  - connect front left motor
 ##### +ve - 9 +ve
@@ -22,7 +22,7 @@
 ##### EN-A - 3.3 V
 ##### EN-B - 3.3 V
 
-#### L298 - 2 connection
+### L298 - 2 connection
 ##### Motor 1  - connect back right motor
 ##### Motor 2  - connect back left motor
 ##### +ve - 9 +ve
